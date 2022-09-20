@@ -21,7 +21,7 @@ Analysis go historic Formula 1 data.
 ## Data Exploration
 
 1. Deal with outliers. Use reasoning to determine boundaries and parameters.
-2. Check for outliers in univariate (same variable, outside range) and multivariate analysis (outside range hwne plotted against other variables). 
+2. Check for outliers in univariate (same variable, outside range) and multivariate analysis (outside range when plotted against other variables). 
 3. Normalized data for univariate analysis.
 4. Analize the standard deviation of variables.
 5. Plot correlation graph
