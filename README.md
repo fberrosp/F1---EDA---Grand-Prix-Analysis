@@ -11,22 +11,22 @@ Analysis go historic Formula 1 data.
 ## Data Cleaning
 
 1. Checking for NA values and visualize them in heatmap.
-1.1 Determined why they are missing. Missing Completely At Random (MCAR), Missing At Random (MAR), Missing Not At Random (MNAR).
-1.2 In case of not at random, found most common ocurrence (median) and fill the values.
-2. Checking data types and format them appropriately.
-3. Removed redundant variables. URLs, number, code, etc.
-4. Merge data
-5. Convert data to numeric, e.g: categorical and date data.
+2. Determined why they are missing. Missing Completely At Random (MCAR), Missing At Random (MAR), Missing Not At Random (MNAR).
+3. In case of not at random, found most common ocurrence (median) and fill the values.
+4. Checking data types and format them appropriately.
+5. Removed redundant variables. URLs, number, code, etc.
+6. Merge data
+7. Convert data to numeric, e.g: categorical and date data.
 
 ## Data Exploration
 
 1. Deal with outliers. Use reasoning to determine boundaries and parameters.
-1.1 Check for outliers in univariate (same variable, outside range) and multivariate analysis (outside range hwne plotted against other variables). 
-1.2 Normalized data for univariate analysis.
-2. Analize the standard deviation of variables.
-3. Plot correlation graph
-3.1 List positive and negative correlations.
-4. Pair plot to show correlation between relevant variables
-5. Box plot
+2. Check for outliers in univariate (same variable, outside range) and multivariate analysis (outside range hwne plotted against other variables). 
+3. Normalized data for univariate analysis.
+4. Analize the standard deviation of variables.
+5. Plot correlation graph
+6. List positive and negative correlations.
+7. Pair plot to show correlation between relevant variables
+8. Box plot
         
 ## ML...
