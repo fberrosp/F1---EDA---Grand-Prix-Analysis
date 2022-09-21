@@ -1,5 +1,5 @@
 # F1-EDA-Grand-Prix-Analysis
-Analysis go historic Formula 1 data.
+Analysis of historic Formula 1 data.
 
 ## Problem Statement
 * What factors will determine who is more likely to win a GP at that specific GP?
