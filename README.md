@@ -1,6 +1,8 @@
 # F1-EDA-Grand-Prix-Analysis
 Analysis of historic Formula 1 data.
 
+Kaggle URL: [https://www.kaggle.com/code/fernandoberrospi/f1-eda-grand-prix-analysis](https://www.kaggle.com/code/fernandoberrospi/f1-eda-grand-prix-analysis)
+
 ## Problem Statement
 * What factors will determine who is more likely to win a GP at that specific GP?
 * How did lap times change over time at each GP?
@@ -27,6 +29,4 @@ Analysis of historic Formula 1 data.
 5. Plot correlation graph
 6. List positive and negative correlations.
 7. Pair plot to show correlation between relevant variables
-8. Box plot
-        
-## ML...
+8. Box plot showing lap time variations of 5 most popular circuits over the years
