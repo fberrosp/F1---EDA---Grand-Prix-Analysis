@@ -4,7 +4,7 @@ Analysis of historic Formula 1 data.
 Kaggle URL: [https://www.kaggle.com/code/fernandoberrospi/f1-eda-grand-prix-analysis](https://www.kaggle.com/code/fernandoberrospi/f1-eda-grand-prix-analysis)
 
 ## Problem Statement
-* What factors will determine who is more likely to win a GP at that specific GP?
+* What factors will determine who is more likely to win a specific GP?
 * How did lap times change over time at each GP?
 * Is there a relationship between grid starting position and winning a GP?
 * Is there a relationship between constructor and GP?
